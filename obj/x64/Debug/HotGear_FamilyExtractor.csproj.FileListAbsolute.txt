@@ -1,0 +1,2 @@
+C:\Users\PowerUser\Downloads\HotGear\HotGear_FamilyExtractor\obj\x64\Debug\HotGear_FamilyExtractor.csprojResolveAssemblyReference.cache
+C:\Users\PowerUser\Downloads\HotGear\HotGear_FamilyExtractor\obj\x64\Debug\HotGear_FamilyExtractor.csproj.CoreCompileInputs.cache
